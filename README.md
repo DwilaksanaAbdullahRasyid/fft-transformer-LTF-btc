@@ -1,4 +1,4 @@
-# Transformer-based High-Frequency Scalping Engine (BTC-USD)
+# Transformer-based High-Frequency Trade Engine (BTC-USD)
 
 An advanced quantitative trading framework that integrates **Deep Learning (Transformer Architecture)** with **Statistical Market Efficiency filters** for high-probability scalping on 5-minute timeframes.
 
